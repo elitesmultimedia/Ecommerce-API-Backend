@@ -39,7 +39,7 @@ POST /product: Add a new product.
 PUT /product/<id>: Update an existing product.
 DELETE /product/<id>: Delete a product.
 
-Credits
+Credits:
 Developed as part of a backend development project.
 
 
